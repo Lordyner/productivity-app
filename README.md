@@ -1,3 +1,3 @@
 # productivity-app
 
-Spring Boot API that communicates with front-productivity-app and a MySQL DB
+Spring Boot API that communicates with my react app "front-productivity-app" and a MySQL DB
